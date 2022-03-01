@@ -1,0 +1,15 @@
+/Users/jack/myrepo/mis321-pa2-Jack-Green2031/obj/Debug/net6.0/mis321-pa2-Jack-Green2031.csproj.AssemblyReference.cache
+/Users/jack/myrepo/mis321-pa2-Jack-Green2031/obj/Debug/net6.0/mis321-pa2-Jack-Green2031.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jack/myrepo/mis321-pa2-Jack-Green2031/obj/Debug/net6.0/mis321-pa2-Jack-Green2031.AssemblyInfoInputs.cache
+/Users/jack/myrepo/mis321-pa2-Jack-Green2031/obj/Debug/net6.0/mis321-pa2-Jack-Green2031.AssemblyInfo.cs
+/Users/jack/myrepo/mis321-pa2-Jack-Green2031/obj/Debug/net6.0/mis321-pa2-Jack-Green2031.csproj.CoreCompileInputs.cache
+/Users/jack/myrepo/mis321-pa2-Jack-Green2031/bin/Debug/net6.0/mis321-pa2-Jack-Green2031
+/Users/jack/myrepo/mis321-pa2-Jack-Green2031/bin/Debug/net6.0/mis321-pa2-Jack-Green2031.deps.json
+/Users/jack/myrepo/mis321-pa2-Jack-Green2031/bin/Debug/net6.0/mis321-pa2-Jack-Green2031.runtimeconfig.json
+/Users/jack/myrepo/mis321-pa2-Jack-Green2031/bin/Debug/net6.0/mis321-pa2-Jack-Green2031.dll
+/Users/jack/myrepo/mis321-pa2-Jack-Green2031/bin/Debug/net6.0/mis321-pa2-Jack-Green2031.pdb
+/Users/jack/myrepo/mis321-pa2-Jack-Green2031/obj/Debug/net6.0/mis321-pa2-Jack-Green2031.dll
+/Users/jack/myrepo/mis321-pa2-Jack-Green2031/obj/Debug/net6.0/refint/mis321-pa2-Jack-Green2031.dll
+/Users/jack/myrepo/mis321-pa2-Jack-Green2031/obj/Debug/net6.0/mis321-pa2-Jack-Green2031.pdb
+/Users/jack/myrepo/mis321-pa2-Jack-Green2031/obj/Debug/net6.0/mis321-pa2-Jack-Green2031.genruntimeconfig.cache
+/Users/jack/myrepo/mis321-pa2-Jack-Green2031/obj/Debug/net6.0/ref/mis321-pa2-Jack-Green2031.dll
